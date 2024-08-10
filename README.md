@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RaviTechie-357
 - 👀 I’m interested in web devlopment
-- 🌱 I’m currently learning Springboot, angular, Hibernate, java, javaScript, HTML, CSS, SQL
+- 🌱 I’m currently learning Springboot, angular, Hibernate, java, javaScript, HTML, CSS, SQL, Azure DevOps.
 - 💞️ I’m looking to collaborate on Web devopmnet project
 - 📫 How to reach me dhageravi4@gmail.com
 - 😄 Pronouns: Ravi
